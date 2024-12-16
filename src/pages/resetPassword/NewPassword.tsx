@@ -12,7 +12,7 @@ export default function NewPassword() {
       <LengkapiDataUserHeader />
 
       <CContainer h={"400px"} align={"center"} justify={"center"}>
-        <Image src={`/images/logo.webp`} w={"100%"} maxW={"260px"} />
+        <Image src={`/images/logo.png`} w={"100%"} maxW={"260px"} />
       </CContainer>
 
       <Text

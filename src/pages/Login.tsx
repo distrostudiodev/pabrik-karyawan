@@ -78,7 +78,12 @@ export default function Login() {
         </HStack>
 
         <CContainer my={"auto"} align={"center"} justify={"center"}>
-          <Image src={`/images/logo.webp`} w={"100%"} maxW={"260px"} />
+          <Image
+            src={`/images/logo.png`}
+            w={"100%"}
+            maxH={"260px"}
+            objectFit={"contain"}
+          />
         </CContainer>
 
         <Box mt={"auto"}>
