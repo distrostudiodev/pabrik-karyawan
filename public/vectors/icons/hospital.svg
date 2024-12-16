@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- Creator: CorelDRAW -->
+<svg xmlns="http://www.w3.org/2000/svg" xml:space="preserve" width="5.016in" height="5.016in" version="1.1" style="shape-rendering:geometricPrecision; text-rendering:geometricPrecision; image-rendering:optimizeQuality; fill-rule:evenodd; clip-rule:evenodd"
+viewBox="0 0 642.29 642.29"
+ xmlns:xlink="http://www.w3.org/1999/xlink"
+ xmlns:xodm="http://www.corel.com/coreldraw/odm/2003">
+ <defs>
+  <style type="text/css">
+   <![CDATA[
+    .fil0 {fill:none}
+   ]]>
+  </style>
+    <clipPath id="id0">
+     <path d="M469.61 110.25l0 9.99 108.43 0 0 411.81 -513.78 0 0 -411.81 108.43 0 0 -9.99 296.93 0z"/>
+    </clipPath>
+ </defs>
+ <g id="Layer_x0020_2">
+  <metadata id="CorelCorpID_0Corel-Layer"/>
+  <g id="_2263108418704">
+   <rect class="fil0" width="642.29" height="642.29"/>
+   <g style="clip-path:url(#id0)">
+    <image x="64.25" y="18.26" width="513.78" height="513.78" xlink:href="hospital_Images\hospital_ImgID1.png"/>
+   </g>
+  </g>
+ </g>
+</svg>
